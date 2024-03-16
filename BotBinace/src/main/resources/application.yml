@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: websocketdemo
+
+app:
+  url:
+    binance:
+      websocket: wss://stream.binance.com/stream
