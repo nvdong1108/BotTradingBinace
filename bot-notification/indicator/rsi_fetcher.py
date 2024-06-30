@@ -8,6 +8,8 @@ from datetime import datetime
 
 API_TOKEN = "6837177530:AAFUTQeVB7zf7pR6z_8iJFZYxxY7WYdLSN4"
 CHAT_ID = "-4251336843"
+is_send = False
+
 
 def fetch_ohlcv(symbol, timeframe, limit=100):
     binance = ccxt.binance()
@@ -39,6 +41,7 @@ def get_current_btc_usdt_price():
 
 
 async def new_order(rsi,side):
+
     print(f"open {side}")
     btc_usdt_price = None
     index = 0
@@ -61,8 +64,8 @@ async def new_order(rsi,side):
     )
     await send(message)
 
-
 async def main(symbol='BTC/USDT', period=14, interval=60):
+    global is_send
     while True:
         df_15m = fetch_ohlcv(symbol, '15m')
         df_15m = calculate_rsi(df_15m, period)
@@ -72,9 +75,16 @@ async def main(symbol='BTC/USDT', period=14, interval=60):
         print(message)
         k = 25
         if current_rsi_15m < (50-k):
-            await new_order(current_rsi_15m,"BUY")
-        if current_rsi_15m > (50+k):
-            await new_order(current_rsi_15m,"SELL")
+            if not is_send:
+                await new_order(current_rsi_15m,"BUY")
+                is_send = True
+        elif (50-k) <= current_rsi_15m <= (50+k):
+            is_send = False
+        elif current_rsi_15m > (50+k):
+            if not is_send:
+                await new_order(current_rsi_15m,"SELL")
+                is_send = True
+
         time.sleep(interval)
 
 
