@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e0beee7-60a7-481e-843b-38a9387163bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BotBinace/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/WebsocketdemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/client/BinanceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/config/WebsocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/controller/CryptoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/converter/PriceDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/data/BinanceKlineData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/dto/PriceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/dto/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/enums/Period.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/enums/SocketMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/enums/SocketType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/form/BinanceRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/form/CryptoPriceRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/form/SocketRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/handler/SocketHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/java/com/tutorial/websocketdemo/service/CryptoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/src/test/java/com/tutorial/websocketdemo/WebsocketdemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/WebsocketdemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/client/BinanceClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/config/WebsocketConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/controller/CryptoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/converter/PriceDtoConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/data/BinanceKlineData$KlineData$Kline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/data/BinanceKlineData$KlineData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/data/BinanceKlineData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/dto/PriceDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/dto/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/enums/Period.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/enums/SocketMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/enums/SocketType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/form/BinanceRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/form/CryptoPriceRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/form/SocketRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/handler/SocketHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/classes/com/tutorial/websocketdemo/service/CryptoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotBinace/target/test-classes/com/tutorial/websocketdemo/WebsocketdemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2iYwGDYz9OlMUsSgsRnNz1D4VJr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dong1108/code/python"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e0beee7-60a7-481e-843b-38a9387163bf" name="Changes" comment="" />
+      <created>1719680721576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719680721576</updated>
+    </task>
+    <servers />
+  </component>
+</project>
