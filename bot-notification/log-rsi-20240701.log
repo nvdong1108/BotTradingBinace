@@ -1,0 +1,101 @@
+2024-07-01 15:12:47,728 - my_logger - INFO - 
+	===============> BEGIN RUN <===============
+
+2024-07-01 15:12:51,555 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 52.01 price 63295.82
+2024-07-01 15:13:55,535 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 51.13 price 63280.12
+2024-07-01 15:14:59,291 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 49.94 price 63260.0
+2024-07-01 15:19:48,838 - my_logger - INFO - 
+	===============> BEGIN RUN <===============
+
+2024-07-01 15:19:53,074 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 51.98 price 63293.99
+2024-07-01 15:20:56,815 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 50.07 price 63262.0
+2024-07-01 15:22:01,759 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 45.03 price 63172.28
+2024-07-01 15:23:05,539 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 43.93 price 63147.05
+2024-07-01 15:24:09,485 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 42.75 price 63133.0
+2024-07-01 15:25:12,727 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 42.18 price 63110.85
+2024-07-01 15:26:16,575 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 42.53 price 63120.0
+2024-07-01 15:27:20,119 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 41.74 price 63102.0
+2024-07-01 15:40:39,688 - my_logger - INFO - 
+	===============> BEGIN RUN <===============
+
+2024-07-01 15:40:42,986 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.82 price 62894.0
+2024-07-01 15:41:47,467 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.04 price 62867.99
+2024-07-01 15:42:51,546 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 32.75 price 62859.99
+2024-07-01 15:43:55,446 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.10 price 62870.0
+2024-07-01 15:44:59,558 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.69 price 62890.0
+2024-07-01 15:46:03,542 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.28 price 62948.62
+2024-07-01 15:47:07,486 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.75 price 62939.58
+2024-07-01 15:48:11,421 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.63 price 62944.11
+2024-07-01 15:49:15,376 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.03 price 62865.14
+2024-07-01 15:50:20,228 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.08 price 62898.89
+2024-07-01 15:51:23,901 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.27 price 62966.0
+2024-07-01 15:52:27,962 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.82 price 62976.01
+2024-07-01 15:53:31,839 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 35.69 price 62900.0
+2024-07-01 15:54:35,674 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.76 price 62939.81
+2024-07-01 15:55:38,791 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.07 price 62895.8
+2024-07-01 15:56:42,506 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.97 price 62943.24
+2024-07-01 15:57:46,095 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.08 price 62943.3
+2024-07-01 15:58:50,048 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.82 price 62958.01
+2024-07-01 15:59:53,849 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 35.82 price 62923.91
+2024-07-01 16:00:57,532 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.20 price 62961.9
+2024-07-01 16:02:01,141 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.71 price 62970.39
+2024-07-01 16:03:04,720 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.59 price 62952.0
+2024-07-01 16:04:08,471 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.14 price 62965.18
+2024-07-01 16:05:13,151 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.74 price 62988.01
+2024-07-01 16:06:17,035 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 40.30 price 62997.97
+2024-07-01 16:07:20,749 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.72 price 62954.01
+2024-07-01 16:08:24,323 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.62 price 62884.34
+2024-07-01 16:09:27,884 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 35.32 price 62901.38
+2024-07-01 16:10:32,199 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.62 price 62889.99
+2024-07-01 16:11:36,069 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.98 price 62900.5
+2024-07-01 16:12:39,782 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.35 price 62885.74
+2024-07-01 16:13:43,281 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.60 price 62889.26
+2024-07-01 16:14:47,082 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.71 price 62892.65
+2024-07-01 16:15:51,139 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.52 price 62858.58
+2024-07-01 16:16:54,810 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 32.76 price 62835.98
+2024-07-01 16:17:58,649 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.71 price 62863.99
+2024-07-01 16:19:01,594 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.13 price 62876.1
+2024-07-01 16:20:05,685 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.23 price 62850.0
+2024-07-01 16:21:09,380 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.15 price 62852.0
+2024-07-01 16:22:13,128 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 32.12 price 62810.05
+2024-07-01 16:23:17,773 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 31.70 price 62800.72
+2024-07-01 16:24:23,379 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 33.43 price 62856.5
+2024-07-01 16:25:28,456 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.18 price 62877.47
+2024-07-01 16:26:32,273 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.76 price 62890.0
+2024-07-01 16:27:39,764 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.13 price 62864.01
+2024-07-01 16:28:43,527 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.31 price 62880.99
+2024-07-01 16:29:47,563 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 32.91 price 62840.39
+2024-07-01 16:30:51,384 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 34.76 price 62866.71
+2024-07-01 16:31:55,124 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.92 price 62899.3
+2024-07-01 16:32:58,894 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.97 price 62900.0
+2024-07-01 16:34:02,491 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.85 price 62913.99
+2024-07-01 16:35:06,068 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.93 price 62931.6
+2024-07-01 16:36:09,874 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.22 price 62920.0
+2024-07-01 16:37:14,587 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.89 price 62939.78
+2024-07-01 16:38:18,429 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.77 price 62945.73
+2024-07-01 16:39:22,236 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.19 price 62936.0
+2024-07-01 16:40:26,756 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.05 price 62896.8
+2024-07-01 16:41:30,864 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.71 price 62899.58
+2024-07-01 16:42:35,321 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.51 price 62892.84
+2024-07-01 16:43:39,041 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.97 price 62900.0
+2024-07-01 16:44:42,200 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 35.53 price 62878.0
+2024-07-01 16:45:45,564 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 36.94 price 62898.0
+2024-07-01 16:46:49,247 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.88 price 62926.96
+2024-07-01 16:47:52,914 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.28 price 62933.28
+2024-07-01 16:48:56,858 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.68 price 62939.55
+2024-07-01 16:50:00,484 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 40.34 price 62949.99
+2024-07-01 16:51:04,391 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 41.01 price 62961.04
+2024-07-01 16:52:08,177 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.12 price 62930.7
+2024-07-01 16:53:11,737 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.20 price 62926.51
+2024-07-01 16:54:15,465 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 35.67 price 62882.51
+2024-07-01 16:55:19,266 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.41 price 62907.8
+2024-07-01 16:56:23,329 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.43 price 62905.25
+2024-07-01 16:57:27,071 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.96 price 62913.12
+2024-07-01 16:58:30,699 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.42 price 62920.0
+2024-07-01 16:59:34,377 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 39.65 price 62938.96
+2024-07-01 17:00:38,010 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 38.81 price 62920.0
+2024-07-01 17:01:41,586 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 37.97 price 62900.01
+2024-07-01 22:22:11,028 - my_logger - INFO - 
+	===============> BEGIN RUN <===============
+
+2024-07-01 22:22:14,848 - my_logger - INFO - RSI Alert! Current RSI for BTC/USDT on 15m is 52.94 price 62935.12
